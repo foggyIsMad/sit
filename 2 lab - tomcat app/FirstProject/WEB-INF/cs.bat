@@ -1,0 +1,2 @@
+javac -classpath "E:\apache-tomcat-8.0.20\lib\servlet-api.jar" -d ".\classes" ".\src\by\bsu\first\servlet\FirstServlet.java"
+javac -classpath "E:\apache-tomcat-8.0.20\lib\servlet-api.jar" -d ".\classes" ".\src\by\bsu\second\servlet\TimeServlet.java"
